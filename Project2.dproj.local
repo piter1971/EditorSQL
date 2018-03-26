@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/06 11:44:26.000.567,=C:\Users\Optima\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/06 11:46:02.000.316,C:\Users\Optima\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Optima\Documents\Embarcadero\Studio\Projects\basesDatos\practica11\UEditor.dfm</Transaction>
+    <Transaction>2017/02/06 11:46:02.000.316,C:\Users\Optima\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Optima\Documents\Embarcadero\Studio\Projects\basesDatos\practica11\UEditor.pas</Transaction>
+    <Transaction>2017/02/06 11:46:03.000.852,C:\Users\Optima\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Optima\Documents\Embarcadero\Studio\Projects\basesDatos\practica11\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
